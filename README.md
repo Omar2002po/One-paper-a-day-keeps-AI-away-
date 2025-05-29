@@ -11,7 +11,7 @@ A personal collection of daily AI paper summaries. I read, distill, and reflect 
 - [Video Generation](/Video_Generation/)
 - [Speech & Audio](/Speech/)
 - [Retrieval & RAG](/RAG/)
-- [Agents & Tool Use](/Agents/)
+- [Agents ](/Agents/)
 - [Fine-Tuning](/FineTuning/)
 - [Evaluation & Benchmarks](/Evaluation/)
 - [Optimization & Inference](/Optimization/)
