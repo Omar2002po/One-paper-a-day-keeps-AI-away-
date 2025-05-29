@@ -1,5 +1,4 @@
-# One-paper-a-day-keeps-AI-away
-# 🧠 Daily AI Paper Insights
+# 🧠 One-paper-a-day-keeps-AI-away
 
 A personal collection of daily AI paper summaries. I read, distill, and reflect on cutting-edge research across AI domains.
 
